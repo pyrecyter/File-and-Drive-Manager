@@ -8,8 +8,8 @@
  
 ##  How to Use
 ###### There is a hosted application you can access those in,
- -  Frontend](https://oauth-application-289619.firebaseapp.com)
- - Backend](https://us-central1-oauth-application-289619.cloudfunctions.net/api)
+ -  [Frontend](https://oauth-application-289619.firebaseapp.com)
+ - [Backend](https://us-central1-oauth-application-289619.cloudfunctions.net/api)
 
 ###### If you want to use this you can clone this to your local directory first then you have to get  the credentials file from GCP
 
